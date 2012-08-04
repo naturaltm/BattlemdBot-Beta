@@ -17,9 +17,9 @@ $mineClass  = new mineClass();
 
 if(($loginClass->isLoged())==true){
 
-//$workClass->userWork("2");
-$atackClass->generalAtack("1"); 
-//$mineClass->workMine(); 
+//$workClass->userWork("2"); Lucreaza 
+//$atackClass->generalAtack("1"); //Ataca
+//$mineClass->workMine();  //Se duce in mina
 
 }else{
      $loginClass->loginUser();
