@@ -2,7 +2,7 @@
 
 class mineClass{
 
-	    function workMine(){
+	function workMine(){
         global $cUrlClass, $html;
         
 
@@ -10,7 +10,7 @@ class mineClass{
         $html->load($cUrlClass->goToPage("/mine/"));
         
              
-        return tru;
+        return true;
     }
 
 
