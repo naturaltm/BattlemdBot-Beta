@@ -1,1 +1,2 @@
-Hello World!S
+Hello World!
+Battle bot(Beta)
