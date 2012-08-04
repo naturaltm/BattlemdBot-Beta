@@ -1,8 +1,8 @@
 <?php
 
 class loginClass{
-      private $userName = "nature"; 
-      private $userPass = "portocala";   
+      private $userName = "nume"; 
+      private $userPass = "parola";   
 
  
       function loginUser(){
