@@ -1,3 +1,1 @@
-Hello World!
-Battle bot(Beta)
-
+BattleBot (Beta)
