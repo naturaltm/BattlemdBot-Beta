@@ -1,5 +1,4 @@
 <?php
-include('simple_html_dom.php');
 
 class cUrl{
 
@@ -30,8 +29,6 @@ class cUrl{
 
 }
 
-$cUrlClass = new cUrl();
-$html = new simple_html_dom();
 
 
 ?>
