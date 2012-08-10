@@ -2,9 +2,12 @@
 //Battle.net Bot (Beta)
 //Author Naturaltm (naturaltm@gmail.com)
 
+$cUrlClass = new cUrl();
+$html = new simple_html_dom();
 
 
 include("curl.php");
+include('simple_html_dom.php');
 include("battleAtack.php");
 include("battleLogin.php");
 include("battleWork.php");
@@ -14,6 +17,8 @@ $loginClass = new loginClass();
 $atackClass = new atackClass();
 $workClass  = new workClass();
 $mineClass  = new mineClass();
+$cUrlClass  = new cUrl();
+$html       = new simple_html_dom();
 
 if(($loginClass->isLoged())==true){
 
