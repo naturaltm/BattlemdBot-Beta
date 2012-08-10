@@ -2,8 +2,6 @@
 //Battle.net Bot (Beta)
 //Author Naturaltm (naturaltm@gmail.com)
 
-$cUrlClass = new cUrl();
-$html = new simple_html_dom();
 
 
 include("curl.php");
