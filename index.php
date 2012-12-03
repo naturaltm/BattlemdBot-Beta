@@ -5,7 +5,7 @@
 
 
 include("curl.php");
-include('simple_html_dom.php');
+include("simple_html_dom.php");
 include("battleAtack.php");
 include("battleLogin.php");
 include("battleWork.php");
