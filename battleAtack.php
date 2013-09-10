@@ -23,11 +23,11 @@ class atackClass{
              $findTime = $html->find('script');             
              $tmpTime = intval(preg_replace("/[^0-9]/", "", $findTime[5]));
              
-             if(strlen($tmpTime)>4){
+             if(strlen($tmpTime)>4)
                      return $tmpTime = 0;
-             }else{
+             else
                      return $tmpTime;
-             }
+             
                                  
           }
 
