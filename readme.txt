@@ -1,2 +1,2 @@
 //Battlemd.net Bot (Beta)
-//Author Naturaltm (naturaltm@gmail.com)
+//Author Naturaltm | Andrei C. (naturaltm@gmail.com|andrei.ntm@gmail.com)
